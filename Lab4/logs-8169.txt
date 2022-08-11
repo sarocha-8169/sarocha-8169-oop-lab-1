@@ -1,0 +1,2 @@
+DEBUG:root:n1 = 2
+DEBUG:root:n2 = 3
